@@ -1,6 +1,0 @@
-11.29.2021
-上午：学习戴老师发的git使用书籍和git desktop帖子。
-下午：粗略阅读两篇文章《data-driven discovery of partial differential equations》和《A unified deep artificial neural network approach to partial differential in complex geometries》。
-晚上：批改党支部中级党课试卷。看《Surrogate Modeling for fluid flows based on physics-constrained deep learning without simulation data》的第一二节。
-收获：
-最后看的那篇文章的思路和我之前想的很像，PINN的本质确实不是监督学习，这篇文章强调了一个词，“label-free”，不需要用别的方法求出数据，并且对最后一层输出做了处理，还没把握到本质，明天继续学习。
