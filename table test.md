@@ -4,27 +4,27 @@
         <td>周六</td>
         <td>周日</td>
         <td>周一</td>
-		<td>周二</td>
-		<td>周三</td>
-		<td>周四</td>
+	<td>周二</td>
+	<td>周三</td>
+	<td>周四</td>
     </tr>
     <tr>
         <td>工作1</td>
         <td>3</td>
         <td>2</td>
         <td>3</td>
-		<td>3</td>
-		<td>3</td>
-		<td>3</td>
+	<td>3</td>
+	<td>3</td>
+	<td>3</td>
     </tr>
     <tr>
         <td>工作2</td>
         <td>1</td>
         <td>2</td>
         <td>1</td>
-		<td>2</td>
-		<td>1</td>
-		<td>2</td>
+	<td>2</td>
+	<td>1</td>
+	<td>2</td>
 
     </tr>
     <tr>
@@ -32,18 +32,18 @@
         <td>4</td>
         <td>2</td>
         <td>4</td>
-		<td>2</td>
-		<td>4</td>
-		<td>2</td>
+	<td>2</td>
+	<td>4</td>
+	<td>2</td>
     </tr>
     <tr>
         <td>工作4</td>
         <td>4</td>
         <td>3</td>
         <td>4</td>
-		<td>3</td>
-		<td>4</td>
-		<td>3</td>
+	<td>3</td>
+	<td>4</td>
+	<td>3</td>
     </tr>
     <tr>
         <td>总计</td>
@@ -51,7 +51,7 @@
         <td>10</td>
         <td>12</td>
         <td>10</td>        
-		<td>12</td>
+	<td>12</td>
         <td>10</td>
     </tr>
 </table>
