@@ -1,36 +1,60 @@
 <table>
     <thead>
         <tr>
-            <td>id</td>
-            <td>name</td>
-            <td>age</td>
-            <td>gender</td>
+            <td>工作时间\日期</td>
+            <td>周六</td>
+            <td>周日</td>
+            <td>周一</td>
+            <td>周二</td>
+            <td>周三</td>
+            <td>周四</td>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>1</td>
-            <td>Roberta</td>
-            <td>39</td>
-            <td>M</td>
-        </tr>
-        <tr>
-            <td>2</td>
-            <td>Oliver</td>
-            <td>25</td>
-            <td>M</td>
-        </tr>
-        <tr>
+            <td>工作1</td>
             <td>3</td>
-            <td>Shayna</td>
-            <td>18</td>
-            <td>F</td>
+            <td>2</td>
+            <td>3</td>
+            <td>2</td>
+            <td>3</td>
+            <td>2</td>
         </tr>
         <tr>
-            <td>4</td>
-            <td>Fechin</td>
-            <td>18</td>
-            <td>M</td>
+            <td>工作2</td>
+            <td>2</td>
+            <td>3</td>
+            <td>2</td>
+            <td>3</td>
+            <td>2</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>工作3</td>
+            <td>3</td>
+            <td>2</td>
+            <td>3</td>
+            <td>2</td>
+            <td>3</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>工作4</td>
+            <td>2</td>
+            <td>3</td>
+            <td>2</td>
+            <td>3</td>
+            <td>2</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>总计</td>
+            <td>10</td>
+            <td>10</td>
+            <td>10</td>
+            <td>10</td>
+            <td>10</td>
+            <td>10</td>
         </tr>
     </tbody>
 </table>
